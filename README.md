@@ -19,7 +19,7 @@ source(“path/to/trisomy.R”)
 drawExpressionChangesByChromosome("test.diff", outputFilename="sample.pdf", horizontal=FALSE, excludesXY=FALSE, ylimit=6)
 '''
 
-Option|Value
+Argument|Value
 ------|-----
 outputFilename|PDF filename (default:boxplot.pdf)
 horizontal|Graph direction (default:TRUE)
